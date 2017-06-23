@@ -18,7 +18,8 @@ h3 {
     font-size: 23px;
 }
 
-.bgpic h3 {
+h3.bgpic {
+    color: #FFFFFF;
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
